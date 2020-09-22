@@ -1,0 +1,22 @@
+/*
+ * GCMovie front styles
+ */
+
+.gcmovie-information {
+    display: block;
+    padding: 20px 0;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid #eee;
+}
+.gcmovie-box {
+    display: block;
+    padding: 10px;
+    margin-bottom: 1.5em;
+    border: 1px solid #eee;
+}
+.gcmovie-box .top {
+    display: block;
+}
+.gcmovie-box .bottom {
+    display: block;
+}

@@ -1,0 +1,15 @@
+/*
+ * GCMovie admin styles
+ */
+.gcmovie-edit-table {
+     width: 100%;
+}
+.gcmovie-edit-table td {
+    padding: 10px;
+}
+.gcmovie-edit-table td.left {
+    width: 30px;
+}
+.gcmovie-edit-table input {
+    width: 100%;
+}
