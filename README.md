@@ -4,7 +4,17 @@ An example of  WordPress plugin that lets you create and manage movie posts. It 
 
 ## What does it for?
 
-This project aims to provide a full WordPress plugin example for new developers to reference. That's why this plugin tries to cover all aspects related to a WordPress plugin. [A full WordPress plugin example](https://www.gloomycorner.com/a-full-wordpress-plugin-exmple/) provides a set of specification docs on how to build such a plugin step by step. It can be also a good start for your own WordPress plugin.
+This project aims to provide a full WordPress plugin example for new developers to reference. That's why this plugin tries to cover all aspects related to a WordPress plugin. [A full WordPress plugin example](https://www.gloomycorner.com/a-full-wordpress-plugin-exmple/) provides a set of specification docs on how to build this plugin step by step. It can be also a good start for your own WordPress plugin.
+
+## Screenshots
+
+**GCMovie list table**
+
+![GCMovie list table](screenshots/gcmovie-custom-list.png?raw=true)
+
+**GCMovie front page**
+
+![GCMovie front page](screenshots/gcmovie-front-page.jpg?raw=true)
 
 ## Getting Started
 
@@ -14,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 WordPress v5.0.3 and later.
 
-### Installing
+### Installin
 
 Copy the project into `plugins` folder of WordPress and activate it in the plugins page of the site.
 
